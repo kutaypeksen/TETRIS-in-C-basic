@@ -1,0 +1,1 @@
+Hello. This is a Tetris game in C. We don't learn function, pointer, dynamic memory or struc etc. until now. That's why I wanted to code with what we learned. It may seem overly simple, but it works :)
